@@ -35,6 +35,7 @@ foreach(dir
     listener_async_spin
     # listener_single_message
     listener_with_tracked_object
+    listener_long_processing_time
     listener_unreliable
     listener_class
     node_handle_namespaces
