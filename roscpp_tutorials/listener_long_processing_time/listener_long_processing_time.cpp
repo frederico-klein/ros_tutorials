@@ -24,7 +24,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
-//This file has been havily modified to serve as an example on how you could
+//This file has been heavily modified to serve as an example on how you could
 //use multithreading in ROS to do a round-robin task divider. It works well in this example
 //because the time is deterministic, in a real world scenario, you'd have to also
 //adjust the order of the arriving messages somehow.
